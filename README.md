@@ -11,7 +11,7 @@ Mantha Sai Gopal, Jaison Saji Chacko, Harsh Nandwana, Sandesh Hegde, Debarshi Ba
 </div>
 
 <p align="center">
-  <img src="docs/figures/qualitative/coco_grid_top5.png" width="100%">
+  <img src="figures/teaser_pascal_lung.svg" width="80%">
 </p>
 
 Training-free in-context segmentation. A single reference image and its binary mask are sufficient to segment the same category in any query image—no gradient updates or per-target adaptation required.
@@ -19,7 +19,7 @@ Training-free in-context segmentation. A single reference image and its binary m
 ## Method
 
 <p align="center">
-  <img src="docs/figures/preview_method_arch-1.png" width="90%">
+  <img src="figures/method.png" width="80%">
 </p>
 
 ## Results
@@ -33,6 +33,10 @@ Training-free in-context segmentation. A single reference image and its binary m
 | **REBASE (ours)** | **63.6** | **87.8** | **88.6** | <ins>46.1</ins> | **39.6** |
 
 1-shot mIoU (%, ↑). All training-free methods except INSID3 use DINOv2-L.
+
+<p align="center">
+  <img src="figures/coco_grid_top5.png" width="80%">
+</p>
 
 ## Code
 
@@ -51,4 +55,4 @@ Code release coming soon. ⭐ star the repo for updates.
 
 ## Acknowledgements
 
-Builds on [SAM](https://github.com/facebookresearch/segment-anything) and [DINOv2](https://github.com/facebookresearch/dinov2), and compares against [PerSAM](https://github.com/ZrrSkywalker/Personalize-SAM), [Matcher](https://github.com/aim-uofa/Matcher), [GF-SAM](https://github.com/ANDYZAQ/GF-SAM), and [INSID3](https://github.com/visinf/INSID3).
+This project builds upon [Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything) and [DINOv2](https://github.com/facebookresearch/dinov2). We also thank the authors of [PerSAM](https://github.com/ZrrSkywalker/Personalize-SAM), [Matcher](https://github.com/aim-uofa/Matcher), [GF-SAM](https://github.com/ANDYZAQ/GF-SAM), and [INSID3](https://github.com/visinf/INSID3) for their open-source implementations and benchmarks.
