@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.09082-b31b1b.svg)](https://arxiv.org/abs/2607.09082v1)
 
-Mantha Sai Gopal, Jaison Saji Chacko, Harsh Nandwana, Sandesh Hegde, Debarshi Banerjee, Uma Mahesh
+[Mantha Sai Gopal](https://manthasaigopal.github.io/), Jaison Saji Chacko, Harsh Nandwana, Sandesh Hegde, Debarshi Banerjee, Uma Mahesh
 
 *CamCom Technologies Private Limited*
 
