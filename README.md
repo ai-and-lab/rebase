@@ -2,13 +2,20 @@
 
 # REBASE: Reference-Background Subspace Elimination for Training-Free In-Context Segmentation
 
+[![ACCV 2026 Oral](https://img.shields.io/badge/ACCV%202026-Oral-5B2C6F.svg)](https://accv2026.org/)
 [![arXiv](https://img.shields.io/badge/arXiv-2607.09082-b31b1b.svg)](https://arxiv.org/abs/2607.09082v1)
 
 [Mantha Sai Gopal](https://manthasaigopal.github.io/), Jaison Saji Chacko, Harsh Nandwana, Sandesh Hegde, Debarshi Banerjee, Uma Mahesh
 
 *CamCom Technologies Private Limited*
 
+**🎉 Accepted for Oral Presentation at ACCV 2026.**
+
 </div>
+
+<p align="center">
+  <img src="figures/rebase_demo.gif" width="70%">
+</p>
 
 <p align="center">
   <img src="figures/teaser_pascal_lung.svg" width="80%">
