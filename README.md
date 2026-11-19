@@ -32,8 +32,8 @@ Training-free in-context segmentation. A single reference image and its binary m
 | PerSAM  | 23.9 | 31.7 | 71.2 | 32.5 | 22.5 |
 | Matcher | 38.6 | 70.8 | 87.0 | 42.9 | 34.7 |
 | GF-SAM  | 48.7 | 51.0 | <ins>88.0</ins> | 44.5 | 36.3 |
-| INSID3&nbsp;(DINOv3-L) | <ins>54.4</ins> | 78.8 | 83.7 | **50.5** | <ins>38.7</ins> |
-| **REBASE (ours)** | **63.6** | **87.8** | **88.6** | <ins>46.1</ins> | **39.6** |
+| INSID3 | <ins>54.4</ins> | 78.8 | 83.7 | **50.5** | <ins>38.7</ins> |
+| **REBASE** | **63.8** | **86.3** | **88.2** | <ins>46.6</ins> | **39.3** |
 
 1-shot mIoU (%, ↑). All training-free methods except INSID3 use DINOv2-L.
 
